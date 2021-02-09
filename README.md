@@ -80,7 +80,7 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
 ## Authors
 
 * **Asli Farah** - *Initial work* - [Git Hub Profile](https://github.com/aslifarah)
-* UNH Project Design
+
 
 
 
